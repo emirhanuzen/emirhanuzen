@@ -3,7 +3,7 @@
 I'm a Software Engineering student at Fırat University. I enjoy building intelligent systems, working on backend architectures, and developing cross-platform mobile applications. 
 
 🎓 **Education**
-* Fırat University — Software Engineering, 3rd Year (AGNO: 3.17)
+* Fırat University — Software Engineering, 4rd Year (AGNO: 3.27)
 
 ⚙️ **Languages and Tools**
 
