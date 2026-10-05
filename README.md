@@ -70,6 +70,6 @@
   </a>
   <!-- Web siteni GitHub Pages'e yükledikten sonra aşağıdaki linki kendi sitene yönlendirebilirsin -->
   <a href="https://emirhanuzen.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-282C34?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+    <img src="https://emirhanuzen.github.io/cv-Site/-282C34?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
